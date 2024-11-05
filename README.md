@@ -7,7 +7,7 @@ This tutorial, presented by [Juntao Li](https://lijuntaopku.github.io/) and [Zec
 
 
 # Resources (Paper and Blog)
-**📌 Note** We only cover the paper lists within this tutorial
+**📌 Note** We only cover the paper lists within this tutorial. For more papers, plz refer to [https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling)
 
 ### Long-context Scaling
 - Paper List:
@@ -31,10 +31,10 @@ This tutorial, presented by [Juntao Li](https://lijuntaopku.github.io/) and [Zec
     - [LOGO — LONG CONTEXT ALIGNMENT VIA EFFICIENT PREFERENCE OPTIMIZATION](https://arxiv.org/pdf/2410.18533v1)
     
 
-#### 1) Efficient Attention
+##### 1) Efficient Attention
 
 
-#### 2) New Architecture
+##### 2) New Architecture
 
 - Paper List:
   - [Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention](https://arxiv.org/abs/2006.16236)
@@ -53,7 +53,7 @@ This tutorial, presented by [Juntao Li](https://lijuntaopku.github.io/) and [Zec
   - [https://jackcook.com/2024/02/23/mamba.html](https://jackcook.com/2024/02/23/mamba.html)
 
 
-#### 3) Infrastructure (Ring Attention)
+##### 3) Infrastructure (Ring Attention)
 - Paper List
     - [Ring Attention with Blockwise Transformers for Near-Infinite Context](https://arxiv.org/pdf/2310.01889)
     - [Blockwise Parallel Transformer for Large Context Models](https://arxiv.org/pdf/2305.19370)
@@ -83,6 +83,7 @@ This tutorial, presented by [Juntao Li](https://lijuntaopku.github.io/) and [Zec
     - [Summary of a Haystack: A Challenge to Long-Context LLMs and RAG Systems](https://arxiv.org/pdf/2407.01370)
     - [Long-form factuality in large language models](https://arxiv.org/pdf/2403.18802)
     - [LongGenBench: Long-context Generation Benchmark](https://arxiv.org/pdf/2410.04199)
+    - [L-CiteEval: Do Long-Context Models Truly Leverage Context for Responding?](https://arxiv.org/abs/2410.02115)
 - Implementation
     - [LLMTest_NeedleInAHaystack](https://github.com/gkamradt/LLMTest_NeedleInAHaystack)
 
