@@ -1,6 +1,7 @@
 # NLPCC'2024 Tutorial: Long Context Modeling in the Large Language Model (LLM) Era — Advances and Challenges
 
 **📘 About the Tutorial**
+
 This tutorial, presented by [Juntao Li](https://lijuntaopku.github.io/) and [Zecheng Tang](https://zetangforward.github.io/) from the [OpenNLG Group](https://opennlg.cn/) @ Soochow University, delves into the recent advancements and challenges in long-context modeling within the era of large language models (LLMs). It covers the latest research and practical implementations in the long-context model field.
 
 **📑 Tutorial Slides** [[PDF]](./NLPCC2024-Long_context_model.pdf)
