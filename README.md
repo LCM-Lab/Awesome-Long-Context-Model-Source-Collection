@@ -32,7 +32,16 @@ This tutorial, presented by [Juntao Li](https://lijuntaopku.github.io/) and [Zec
     
 
 ##### 1) Efficient Attention
-
+- Paper List
+    - [LED: Lightweight and efficient end-to-end speech recognition using low-rank transformer](https://arxiv.org/abs/1910.13923)
+    - [Linformer: Self-attention with linear complexity](https://arxiv.org/abs/2006.04768)
+    - [Generating Long Sequences with Sparse Transformers](https://arxiv.org/abs/1904.10509)
+    - [Big Bird: Transformers for Longer Sequences](https://arxiv.org/abs/2007.14062)
+    - [Longformer: The Long-Document Transformer](https://arxiv.org/abs/2004.05150)
+    - [Selective Attention Improves Transformer](https://arxiv.org/abs/2410.02703)
+    - [RetrievalAttention: Accelerating Long-Context LLM Inference via Vector Retrieval](https://arxiv.org/abs/2409.10516)
+    - [Efficient Long-range Language Modeling with Self-supervised Causal Retrieval](https://arxiv.org/abs/2410.01651)
+    
 
 ##### 2) New Architecture
 
