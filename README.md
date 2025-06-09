@@ -29,10 +29,35 @@ survey-papers/
 
 ---
 
-## Paper List
+## 📜 Papers
 
-(这里放照其他repo写paper list）
+> You can directly click on the title to jump to the corresponding PDF link location
 
+### 1. Survey Papers
+
+1. [**A Survey on Long Text Modeling with Transformers.**](https://arxiv.org/abs/2302.14502) _Zican Dong, Tianyi Tang, Lunyi Li, Wayne Xin Zhao._ Arxiv 2023.
+
+2. [**Thus Spake Long-Context Large Language Model.**](https://arxiv.org/abs/2502.17129) _Xiaoran Liu, Ruixiao Li, Mianqiu Huang, Zhigeng Liu, Yuerong Song, Qipeng Guo, Siyang He, Qiqi Wang, Linlin Li, Qun Liu, Yaqian Zhou, Xuanjing Huang, Xipeng Qiu._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/OpenMOSS/Thus-Spake-Long-Context-LLM)](https://github.com/OpenMOSS/Thus-Spake-Long-Context-LLM)
+
+3. [**A Comprehensive Survey on Long Context Language Modeling.**](https://arxiv.org/abs/2503.17407) _Jiaheng Liu, Dawei Zhu, Zhiqi Bai, Yancheng He, Huanxuan Liao, Haoran Que, Zekun Wang, Chenchen Zhang, Ge Zhang, Jiebin Zhang, Yuanxing Zhang, Zhuo Chen, Hangyu Guo, Shilong Li, Ziqiang Liu, Yong Shan, Yifan Song, Jiayi Tian, Wenhao Wu, Zhejian Zhou, Ruijie Zhu, Junlan Feng, Yang Gao, Shizhu He, Zhoujun Li, Tianyu Liu, Fanyu Meng, Wenbo Su, Yingshui Tan, Zili Wang, Jian Yang, Wei Ye, Bo Zheng, Wangchunshu Zhou, Wenhao Huang, Sujian Li, Zhaoxiang Zhang._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/LCLM-Horizon/A-Comprehensive-Survey-For-Long-Context-Language-Modeling)](https://github.com/LCLM-Horizon/A-Comprehensive-Survey-For-Long-Context-Language-Modeling)
+
+### 2. LCMs Training Data
+
+#### 2.1 Pre-Training Data
+
+#### 2.2 Post-Training Data
+
+### 3. LCMs Evaluation Benchmarks
+
+#### 3.1 General Capabilities
+
+#### 3.2 Retrieval Capabilities
+
+#### 3.3 Reasoning Capabilities
+
+#### 3.4 Aggravation Capabilities
+
+#### 3.5 Long-Form Generation Capabilities
 ---
 
 ## ✅ Contributing
