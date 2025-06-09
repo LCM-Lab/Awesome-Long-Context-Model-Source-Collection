@@ -58,6 +58,10 @@ survey-papers/
 #### 3.4 Aggravation Capabilities
 
 #### 3.5 Long-Form Generation Capabilities
+
+1. [**LongGenBench: Benchmarking Long-Form Generation in Long Context LLMs.**](https://arxiv.org/abs/2409.02076) _Yuhao Wu, Ming Shan Hee, Zhiqing Hu, Roy Ka-Wei Lee._ Arxiv 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/mozhu621/LongGenBench)](https://github.com/mozhu621/LongGenBench/)
+
+2. 
 ---
 
 ## ✅ Contributing
