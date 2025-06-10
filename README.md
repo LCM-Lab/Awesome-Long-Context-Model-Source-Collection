@@ -102,6 +102,18 @@ survey-papers/
 19.  [**U-NIAH: Unified RAG and LLM Evaluation for Long Context Needle-In-A-Haystack.**](https://arxiv.org/abs/2503.00353) _Yunfan Gao, Yun Xiong, Wenlong Wu, Zijing Huang, Bohan Li, Haofen WangYunfan Gao, Yun Xiong, Wenlong Wu, Zijing Huang, Bohan Li, Haofen Wang._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/Tongji-KGLLM/U-NIAH)](https://github.com/Tongji-KGLLM/U-NIAH)
 
 #### 3.3 Reasoning Capabilities
+1. [**Constructing A Multi-hop QA Dataset for Comprehensive Evaluation of Reasoning Steps**](https://arxiv.org/abs/2011.01060) _Xanh Ho, Anh-Khoa Duong Nguyen, Saku Sugawara, Akiko Aizawa
+._ Arxiv 2020.
+
+2. [**A Dataset of Information-Seeking Questions and Answers Anchored in Research Papers**](https://arxiv.org/abs/2105.03011) _Pradeep Dasigi, Kyle Lo, Iz Beltagy, Arman Cohan, Noah A. Smith, Matt Gardner._ Arxiv 2021.
+
+3. [**A Dataset of Information-Seeking Questions and Answers Anchored in Research Papers**](https://arxiv.org/abs/2105.03011) _Pradeep Dasigi, Kyle Lo, Iz Beltagy, Arman Cohan, Noah A. Smith, Matt Gardner._ Arxiv 2021.
+
+4. [**MuSiQue: Multihop Questions via Single-hop Question Composition**](https://arxiv.org/abs/2108.00573) _Harsh Trivedi, Niranjan Balasubramanian, Tushar Khot, Ashish Sabharwal._ Arxiv 2021.  [![GitHub Repo stars](https://img.shields.io/github/stars/stonybrooknlp/musique)](https://github.com/stonybrooknlp/musique)
+
+5. 
+
+
 
 #### 3.4 Aggravation Capabilities
 
