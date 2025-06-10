@@ -50,8 +50,16 @@ survey-papers/
 ### 3. LCMs Evaluation Benchmarks
 
 #### 3.1 General Capabilities
+1. [**Never Train from Scratch: Fair Comparison of Long-Sequence Models Requires Data-Driven Priors.**](https://openreview.net/forum?id=PdaPky8MUn) _Ido Amos, Jonathan Berant, Ankit Gupta._ ICLR 2024 Oral.
+
+2. [**∞Bench: Extending Long Context Evaluation Beyond 100K Tokens.**](https://arxiv.org/abs/2402.13718) _Xinrong Zhang, Yingfa Chen, Shengding Hu, Zihang Xu, Junhao Chen, Moo Khai Hao, Xu Han, Zhen Leng Thai, Shuo Wang, Zhiyuan Liu, Maosong Sun._ Arxiv 2024.
+
+3. [**LongIns: A Challenging Long-context Instruction-based Exam for LLMs.**](https://arxiv.org/abs/2406.17588) _Shawn Gavin, Tuney Zheng, Jiaheng Liu, Quehry Que, Noah Wang, Jian Yang, Chenchen Zhang, Wenhao Huang, Wenhu Chen, Ge Zhang._ Arxiv 2024.
+
+4. [**HELMET: How to Evaluate Long-Context Language Models Effectively and Thoroughly.**](https://arxiv.org/abs/2410.02694) _Howard Yen, Tianyu Gao, Minmin Hou, Ke Ding, Daniel Fleischer, Peter Izasak, Moshe Wasserblat, Danqi Chen._ Arxiv 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/princeton-nlp/HELMET)](https://github.com/princeton-nlp/HELMET)
 
 #### 3.2 Retrieval Capabilities
+1. [**How Long Can Context Length of Open-Source LLMs truly Promise?**](https://openreview.net/forum?id=LywifFNXV5) _Dacheng Li, Rulin Shao, Anze Xie, Ying Sheng, Lianmin Zheng, Joseph Gonzalez,  Ion Stoica, Xuezhe Ma, Hao Zhang.
 
 #### 3.3 Reasoning Capabilities
 
