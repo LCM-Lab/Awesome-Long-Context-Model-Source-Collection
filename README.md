@@ -11,24 +11,25 @@ This repository is a curated list of survey papers for Long-context Data.
 Click on the links below to jump directly to each section:
 
 - [Tutorial](./README_tutorial.md)
-
-- [📚 Survey Papers Collection](#survey-papers-collections)
+- [📚 Survey Papers Collection](#survey-papers-collection)
 - [🔍 Navigation](#navigation)
 - [🧾 Repository Structure](#repository-structure)
-- [📜 Papers](#papers)
-  -[1. Survey Papers](#1-survey-papers)
-  -[2. LCMs Training Data](#2-lcms-training-data)
-     -[2.1 Pre-Training Data](##21-pre-training-data)
-     -[2.2 Post-Training Data](##22-post-trainng-data)
-  -[3. LCMs Evaluation Benchmarks](#3-lcms-evaluation-benchmarks)
-     -[3.1 General Capabilities](##31-general-capabilities)
-     -[3.2 Retrieval Capabilities](##32-retrieval-capabilities)
-     -[3.3 Reasoning Capabilities](##33-reasoning-capabilities)
-     -[3.4 Aggravation Capabilities](##34-aggravation-capabilities)
-     -[3.5 Long-Form Generation Capabilities](##35-long-form-capabilities)
--[✅ Contributing](#contributions)
--[📌 License](#license)
--[🤝 Contact](#contact)
+- [📜 Papers](#papers)  
+  - [1. Survey Papers](#1-survey-papers)  
+  - [2. LCMs Training Data](#2-lcms-training-data)  
+    - [2.1 Pre-Training Data](#21-pre-training-data)  
+    - [2.2 Post-Training Data](#22-post-training-data)  
+  - [3. LCMs Evaluation Benchmarks](#3-lcms-evaluation-benchmarks)  
+    - [3.1 General Capabilities](#31-general-capabilities)  
+    - [3.2 Retrieval Capabilities](#32-retrieval-capabilities)  
+    - [3.3 Reasoning Capabilities](#33-reasoning-capabilities)  
+    - [3.4 Aggravation Capabilities](#34-aggravation-capabilities)  
+    - [3.5 Long-Form Generation Capabilities](#35-long-form-generation-capabilities)
+
+- [✅ Contributing](#contributing)
+- [📌 License](#license)
+- [🤝 Contact](#contact)
+
 ---
 
 ## 🧾 Repository Structure
