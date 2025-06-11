@@ -20,7 +20,7 @@ Click on the links below to jump directly to each section:
   -[2. LCMs Training Data](#2-lcms-training-data)
      -[2.1 Pre-Training Data](##21-pre-training-data)
      -[2.2 Post-Training Data](##22-post-trainng-data)
-  -[3. LCMs Evaluation Benchmarks]
+  -[3. LCMs Evaluation Benchmarks](#3-lcms-evaluation-benchmarks)
      -[3.1 General Capabilities](##31-general-capabilities)
      -[3.2 Retrieval Capabilities](##32-retrieval-capabilities)
      -[3.3 Reasoning Capabilities](##33-reasoning-capabilities)
@@ -37,8 +37,7 @@ Long-context-modeling-space/
 ├── CCMT2024-Slides-CN.pdf
 ├── NLPCC2024-Long_context_model.pdf
 ├── README.md
-├── README_tutorial.md
-└── 
+└── README_tutorial.md
 ```
 
 ---
