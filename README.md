@@ -16,15 +16,13 @@ Click on the links below to jump directly to each section:
 ## 🧾 Repository Structure （这里需要根据下面写的内容修改）
 
 ```
-survey-papers/
-├── README.md
-├── computer-vision/
-│   └── README.md
-├── nlp/
-│   └── README.md
-├── machine-learning/
-│   └── README.md
-└── ...
+Papers/
+├── Survey Papers
+├── LCMs Training Data/
+│   └── Pre-Training Data
+├── LCMs Evaluation Benchmarks/
+│   └── General Capabilities
+└── 
 ```
 
 ---
