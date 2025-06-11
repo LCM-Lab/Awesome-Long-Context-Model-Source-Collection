@@ -184,10 +184,18 @@ survey-papers/
 22. [**LongReason: A Synthetic Long-Context Reasoning Benchmark via Context Expansion.**](https://arxiv.org/abs/2501.15089) _Zhan Ling, Kang Liu, Kai Yan, Yifan Yang, Weijian Lin, Ting-Han Fan, Lingfeng Shen, Zhengyin Du, Jiecao Chen._ Arxiv 2025.
 
 
-
-
-
 #### 3.4 Aggravation Capabilities
+1. [**Multi-News: A Large-Scale Multi-Document Summarization Dataset and Abstractive Hierarchical Model.**](https://aclanthology.org/P19-1102/) _Alexander Fabbri, Irene Li, Tianwei She, Suyi Li, Dragomir Radev._ ACL 2019.
+
+2. [**AQuaMuSe: Automatically Generating Datasets for Query-Based Multi-Document Summarization.**](https://arxiv.org/abs/2010.12694) _Sayali Kulkarni, Sheide Chammas, Wan Zhu, Fei Sha, Eugene Ie._ Arxiv 2020.
+
+3. [**Efficient Attentions for Long Document Summarization.**](https://arxiv.org/abs/2104.02112) _Luyang Huang, Shuyang Cao, Nikolaus Parulian, Heng Ji, Lu Wang._ Arxiv 2021. [![GitHub Repo stars](https://img.shields.io/github/stars/luyang-huang96/LongDocSum)](https://github.com/luyang-huang96/LongDocSum)
+
+4. [**QMSum: A New Benchmark for Query-based Multi-domain Meeting Summarization.**](https://arxiv.org/abs/2104.05938) _Ming Zhong, Da Yin, Tao Yu, Ahmad Zaidi, Mutethia Mutuma, Rahul Jha, Ahmed Hassan Awadallah, Asli Celikyilmaz, Yang Liu, Xipeng Qiu, Dragomir Radev._ Arxiv 2021.
+
+5. [**LCFO: Long Context and Long Form Output Dataset and Benchmarking.**](https://arxiv.org/abs/2412.08268) _Marta R. Costa-jussà, Pierre Andrews, Mariano Coria Meglioli, Joy Chen, Joe Chuang, David Dale, Christophe Ropers, Alexandre Mourachko, Eduardo Sánchez, Holger Schwenk, Tuan Tran, Arina Turkatenko, Carleigh Wood._ Arxiv 2024.
+
+6. [**Holistic Reasoning with Long-Context LMs: A Benchmark for Database Operations on Massive Textual Data.**](https://arxiv.org/abs/2412.08268) _Seiji Maekawa, Hayate Iso, Nikita Bhutani._ Arxiv 2024.
 
 #### 3.5 Long-Form Generation Capabilities
 1. [**Train Short, Test Long: Attention with Linear Biases Enables Input Length Extrapolation.**](https://arxiv.org/abs/2108.12409) _Ofir Press, Noah A. Smith, Mike Lewis._ ICLR 2022. [![GitHub Repo stars](https://img.shields.io/github/stars/ofirpress/attention_with_linear_biases)](https://github.com/ofirpress/attention_with_linear_biases)
