@@ -21,7 +21,8 @@ Long-context-modeling-space/
 ├── CCMT2024-Slides-CN.pdf
 ├── NLPCC2024-Long_context_model.pdf
 ├── README.md
-└── README_tutorial.md
+├── README_tutorial.md
+└── long-context-model-data-survey.pdf
 ```
 
 ---
