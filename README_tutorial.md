@@ -7,6 +7,12 @@ This tutorial, presented by [Juntao Li](https://lijuntaopku.github.io/) and [Zec
 **📑 NLPCC'2024 Tutorial Slides** [[PDF]](./NLPCC2024-Long_context_model.pdf)
 **📑 CCMT'2024 Tutorial Slides** [[PDF]](./CCMT2024-Slides-CN.pdf)
 
+# 🔍 Navigation
+
+Click on the links below to jump directly to each section:
+
+- [Tutorial](# Long Context Modeling in the Large Language Model (LLM) Era — Advances and Challenges)
+- [📚 Survey Papers Collection](./README.md)
 
 # Resources (Paper and Blog)
 **📌 Note** We only cover the paper lists within the tutorial slides. For more papers, plz refer to [https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling)
