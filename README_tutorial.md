@@ -11,7 +11,7 @@ This tutorial, presented by [Juntao Li](https://lijuntaopku.github.io/) and [Zec
 
 Click on the links below to jump directly to each section:
 
-- [Tutorial](# Long Context Modeling in the Large Language Model (LLM) Era — Advances and Challenges)
+- [Tutorial](#long-context-modeling-in-the-large-language-model(llm)era-advances-and-challenges)
 - [📚 Survey Papers Collection](./README.md)
 
 # Resources (Paper and Blog)
