@@ -144,6 +144,8 @@ Long-context-modeling-space/
 
 27. [**LongFaith: Enhancing Long-Context Reasoning in LLMs with Faithful Synthetic Data.**](https://arxiv.org/abs/2502.12583) _Cehao Yang, Xueyuan Lin, Chengjin Xu, Xuhui Jiang, Shengjie Ma, Aofan Liu, Hui Xiong, Jian Guo._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/IDEA-FinAI/LongFaith)](https://github.com/IDEA-FinAI/LongFaith)
 
+28. [**Chunks as Arms: Multi-Armed Bandit-Guided Sampling for Long-Context LLM Preference Optimization.**](https://arxiv.org/abs/2508.13993) _Shaohua Duan, Pengcheng Huang, Xinze Li, Zhenghao Liu, Xiaoyuan Yi, Yukun Yan, Shuo Wang, Yu Gu, Ge Yu, Maosong Sun._ ACL 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/NEUIR/LongMab-PO)](https://github.com/NEUIR/LongMab-PO)
+
 
 
 
